@@ -17,7 +17,7 @@ Calculating PCA loadings
 
 <br>
 
-![PCA loadings workflow](/Users/hmarkus/Desktop/Thesis_Cambridge/AfterThesis/PBTNB_score/figures/SupplementaryFigure4.png)
+![PCA loadings workflow](figures/SupplementaryFigure4.png)
 
 <br>
 
@@ -34,7 +34,7 @@ Calculating PBMNB-score, PBDNB-score, and PBTNB-score
 
 <br>
 
-![Calculating scores](/Users/hmarkus/Desktop/Thesis_Cambridge/AfterThesis/PBTNB_score/figures/Figure6b.png)
+![Calculating scores](figures/Figure6b.png)
 
 <br>
 
